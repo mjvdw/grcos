@@ -1,1 +1,1 @@
-# grcos
+# grcOS
